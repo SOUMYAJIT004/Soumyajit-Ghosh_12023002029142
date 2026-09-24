@@ -5,6 +5,7 @@
 - **Registration no:** 304202300901260
 - **Batch:** 2023-2027
 - **College:** Institute of Engineering and Management, Kolkata
+- **Personal Mail id:** ghoshsoumyajit2004@gmail.com
 
 ## 📂 Repository Structure
 
