@@ -6,6 +6,7 @@
 - **Batch:** 2023-2027
 - **College:** Institute of Engineering and Management, Kolkata
 - **Personal Mail id:** ghoshsoumyajit2004@gmail.com
+- **College Mail id:** soumyajit.ghosh.2023@iem.edu.in
 
 ## 📂 Repository Structure
 
