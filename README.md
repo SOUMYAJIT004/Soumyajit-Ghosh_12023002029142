@@ -22,4 +22,4 @@
 ┃ ┗ 📂 Coursera Certificates
 ┗ 📜 README.md
 
-All module assignments, capstone project and coursera certificates are present. Thank you.
+
